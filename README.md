@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Razak0
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on new skills on programming languages
+- 👀 I’m interested in Emerging Technologies
+- 💞️ I’m looking to collaborate on new skills 
 - 📫 How to reach me abdulrazak3713@gmail.com
 
 <!---
